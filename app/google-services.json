@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "554922065023",
+    "firebase_url": "https://pdfreader-447b2.firebaseio.com",
+    "project_id": "pdfreader-447b2",
+    "storage_bucket": "pdfreader-447b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554922065023:android:fe949181868aff03ec134a",
+        "android_client_info": {
+          "package_name": "com.jsc.pdfreader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "554922065023-dv1elme9oko7pjhp7ii6tc4ccvv3hn88.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMci-ix9-jLWImjP200KeVhOh-up6ToeI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "554922065023-dv1elme9oko7pjhp7ii6tc4ccvv3hn88.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
